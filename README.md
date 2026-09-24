@@ -33,4 +33,4 @@ Apresentar o perfil do aluno Arthur Araújo Nunes, destacando sua jornada no cur
 ### 🗣️ Idiomas
 * **Inglês**: Nível intermediário em leitura e escuta (com necessidade de praticar a fala)
 * **Espanhol**: Nível básico (em esforço para aprender mais)
-* **Português**; Nativo
+* **Português**: Nativo
